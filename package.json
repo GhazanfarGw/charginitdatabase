@@ -10,5 +10,16 @@
     "mongoose": "^8.5.4",
     "nodemailer": "^6.9.14",
     "path": "^0.12.7"
-  }
+  },
+  "name": "charginitydatabase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
